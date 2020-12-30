@@ -1,0 +1,1434 @@
+Poxviridae
+Taxonomy - Then and Now
+ 
+Virus Taxonomy: 2018b Release
+EC 50, Washington, DC, July 2018
+Email ratification February 2019 (MSL #34)
+ Family: Poxviridae 
+ Subfamily: Chordopoxvirinae 
+ Genus: Avipoxvirus 
+Species: Canarypox virus 
+Species: Fowlpox virus 
+Species: Juncopox virus 
+Species: Mynahpox virus 
+Species: Pigeonpox virus 
+Species: Psittacinepox virus 
+Species: Quailpox virus 
+Species: Sparrowpox virus 
+Species: Starlingpox virus 
+Species: Turkeypox virus 
+ Genus: Capripoxvirus 
+ Genus: Centapoxvirus 
+ Genus: Cervidpoxvirus 
+ Genus: Crocodylidpoxvirus 
+ Genus: Leporipoxvirus 
+ Genus: Molluscipoxvirus 
+ Genus: Orthopoxvirus 
+ Genus: Parapoxvirus 
+ Genus: Suipoxvirus 
+ Genus: Yatapoxvirus 
+Species: Pteropox virus 
+Species: Squirrelpox virus 
+ Subfamily: Entomopoxvirinae 
+ Genus: Alphaentomopoxvirus 
+ Genus: Betaentomopoxvirus 
+ Genus: Gammaentomopoxvirus 
+Species: Diachasmimorpha entomopoxvirus 
+Species: Melanoplus sanguinipes entomopoxvirus 
+Virus Taxonomy: 2009 Release
+ICTV 9th Report
+EC41: Leiden, June 2009; Email ratification 2009 (MSL #25)
+ Family: Poxviridae 
+ Subfamily: Chordopoxvirinae 
+ Subfamily: Entomopoxvirinae 
+Table of Contents
+-dsDNA Viruses
++Adenoviridae
++Ampullaviridae
++Ascoviridae
++Asfarviridae
++Baculoviridae
++Bicaudaviridae
++Caudovirales
++Corticoviridae
++Fuselloviridae
++Globuloviridae
++Guttaviridae
++Herpesvirales
++Iridoviridae
++Ligamenvirales
++Mimiviridae
++Nimaviridae
++Papillomaviridae
++Phycodnaviridae
++Plasmaviridae
++Polydnaviridae
++Polyomaviridae
+-Poxviridae
+Poxviridae - Figures
++Rhizidiovirus
++Salterprovirus
++Tectiviridae
+Family: Poxviridae
+Chapter Version: ICTV Ninth Report; 2009 Taxonomy Release
+Virion properties
+Morphology
+Virions are somewhat pleomorphic, generally brick-shaped (220450 nm long×140260 nm wide×140260 nm thick) with a lipoprotein surface membrane displaying tubular or globular units (1040 nm). They can also be ovoid (250300 nm long×160190 nm diameter) with a surface membrane possessing a regular spiral filament (1020 nm in diameter) (Figure 1).
+
+Negative contrast EM images show that the surface membrane encloses a biconcave or cylindrical core that contains the genome DNA and proteins organized in a nucleoprotein complex. One or two lateral bodies appear to be present in the concave region between the core wall and a membrane. A recent model suggests that the nucleoprotein complex might be cylindrical, folded at least twice along the long virion axis to form a Z-structure, which presents as three circles, arranged linearly when viewed as a section across the short axis. This virion form is known as the mature virion (MV; also known as intracellular mature virus, IMV). Some MV is wrapped by an additional double layer of intracellular membranes (derived from the trans-Golgi or endosomes) to form wrapped virions (WV; also known as intracellular enveloped virus, IEV). WV can be externalized, losing the outermost of the additional membrane layers via fusion with the cell membrane, to form extracellular virions (EV). EV are antigenically distinct from MV, due to the presence of envelope-specific proteins. They can be bound to the cell surface (in a form specifically known as cell-associated enveloped virus, CEV) or released into the extracellular medium (in a form specifically known as extracellular enveloped virus, EEV). While this pathway commonly predominates in the mammalian poxviruses, the avian viruses (e.g. canarypox virus, fowlpox virus and pigeonpox virus) appear to form EV directly by budding of MV through the cell membrane, rather than by intermediate formation of WV. The avian viruses and some mammalian viruses (e.g. cowpox virus, ectromelia virus and raccoonpox virus, but not vaccinia virus or variola virus, and not all isolates) may also be sequestered within inclusion bodies. Others (e.g. entomopoxviruses) may be occluded into a preformed inclusion body.
+
+Physicochemical and physical properties
+Particle Mr is 3 ×109; S20,W is about 5000S. Buoyant density of virions is subject to osmotic influences: in dilute buffers it is about 1.16 g cm−3, in sucrose about 1.25 g cm−3, and in CsCl and potassium tartrate about 1.30 g cm−3. Virions tend to aggregate in high salt solution. Infectivity of some members is resistant to trypsin. Some members are insensitive to ether. Generally, virion infectivity is sensitive to common detergents, formaldehyde, oxidizing agents and temperatures greater than 40 °C. The virion surface membrane is removed by nonionic detergents and sulfhydryl reducing reagents. Virions are relatively stable in dry conditions at room temperature; they can be lyophilized with little loss of infectivity.
+
+Nucleic acid
+Nucleic acids constitute about 3% of the particle weight. The genome is a single, linear molecule of covalently-closed, dsDNA, 130375 kbp in length.
+
+Proteins
+Proteins constitute about 90% of the particle weight. Genomes encode 150300 proteins depending on the species; about 100 proteins are present in virions. Virus particles contain many enzymes involved in DNA transcription or modification of proteins or nucleic acids. Enveloped virions have virus-encoded polypeptides in the lipid bilayer, which surrounds the particle. Entomopoxviruses may be occluded by a virus-encoded, major structural protein, spheroidin. Similarly, chordopoxviruses may be within inclusion bodies again consisting of a single protein (the A-type inclusion ATI protein). In general, conserved proteins essential to virus replication in culture (polymerases and other enzymes, and structural proteins) are encoded in the central region of the genome whereas less conserved, non-essential proteins involved in virushost responses (immunomodulators, anti-apoptotic proteins, etc.) are encoded in the terminal regions of the genome. Several large protein families are encoded within the Poxviridae, in some cases with many members. For instance canarypox virus encodes 51 proteins of the ankyrin repeat family.
+
+Lipids
+Lipids constitute about 4% of the particle weight. Enveloped virions contain lipids, including glycolipids, which may be modified cellular lipids.
+
+Carbohydrates
+Carbohydrates constitute about 3% of the particle weight. Certain viral proteins, e.g. hemagglutinin in the envelope of orthopoxviruses, have N- and C-linked glycans.
+
+Genome organization and replication
+The poxvirus genome comprises a linear molecule of dsDNA with covalently closed termini; terminal hairpins constitute two isomeric, imperfectly paired, “flip-flop” DNA forms consisting of inverted complementary sequences. Variably sized, tandem repeat sequence arrays may or may not be present near the ends (Figure 2). Replication takes place predominately, if not exclusively, within the cytoplasm (Figure 3).
+
+The entry of poxviruses into mammalian cells is divided into two phases: attachment of the virions to the cell surface and a fusion/entry event that delivers the viral core into the cellular cytoplasm. The attachment phase is mediated largely by electrostatic interactions between the virion and cell surface moieties, particularly glycosaminoglycans and laminin, whereas fusion of the viral membrane with cellular membranes is mediated by a multi-subunit viral entry/fusion complex, comprising at least a dozen highly conserved viral proteins. Although EV differ from MV by possessing an extra membrane (the envelope), it is believed that the EV membrane is disrupted shortly after binding to the cell surface such that the entry/fusion stage is similar for MV and EV.
+
+Polyadenylated, capped primary mRNA transcripts, representing about 50% of the genome, are initially synthesized from both DNA strands by enzymes within the core, including a virus-encoded multisubunit RNA polymerase; transcripts are extruded from the core for translation by host ribosomes. During synthesis of early proteins, host macromolecular synthesis is inhibited. Virus reproduction ensues in the host cell cytoplasm, producing basophilic (B-type) inclusions termed “viroplasms” or “virus factories”. The genome contains closely spaced protein-encoding ORFs, lacking introns, some of which may partially overlap. These ORFs are preceded by virus-specific promoters that temporally regulate transcription of three classes of mRNA. One class, the early genes, are expressed from partially uncoated virions prior to DNA replication (these encode many non-structural proteins, including enzymes involved in replicating the genome and modifying DNA and RNA, and proteins whose role is to neutralize the host response). Early genes also encode intermediate transcription factors. Intermediate genes, which encode late transcription factors, are expressed during the period of DNA replication and are required for subsequent late gene transcription. Finally, late genes are expressed during the post-replicative phase (these mainly encode virion structural proteins but also early transcription factors). Despite a cytoplasmic site of replication, there is evidence for the requirement of host nuclear proteins in post-replicative transcription. The mRNAs are capped, polyadenylated at the 3′ termini, and not spliced. Many intermediate, late and some early mRNAs have 5′-poly(A) tracts, that precede the encoded mRNA. Early protein synthesis is generally decreased during the transition to late gene expression, but some genes are expressed from promoters with both early and late activities. Certain proteins are modified post-translationally (e.g. by proteolytic cleavage, phosphorylation, glycosylation, ribosylation, sulphation, acylation, palmitylation and myristylation). Proteolytic cleavage of late proteins is required for virion morphogenesis.
+
+The replication of the DNA genome appears to be mainly through the action of viral enzymes. DNA replication is initiated with the introduction of a single stranded nick, which serves to prime replication, near one (or both) of the terminal hairpins. The hairpin is unfolded and copied to the terminus. The two strands are separated at the terminus and hairpins reform, allowing nascent DNA to be extended along the whole length of the genome, through the opposite hairpin and back along the opposite strand, forming a concatemeric product. Resolution of the concatemers for packaging involves at least three virus-encoded functions: a nicking-joining DNase, topoisomerase I and a Holliday junction resolvase.
+
+Genetic recombination within genera has been shown, and may occur between daughter molecules during replication. Non-genetic genome reactivation generating infectious virus has been shown within, and between, members of genera in the subfamily Chordopoxvirinae, and forms the basis for the recovery of recombinant vaccinia virus from full-length genomic DNA (in, for instance, bacterial artificial chromosome vectors) by helper fowlpox virus (which can be removed by passage of the progeny through mammalian cells).
+
+Virus morphogenesis begins following DNA replication and expression of early, intermediate and late genes. Particle assembly is initiated with the formation of crescent-shaped membrane structures in the intermediate compartment between the endoplasmic reticulum and the trans-Golgi network. Replicated, concatameric DNA is resolved into unit genomes and packaged, forming virion particles that mature into fully infectious MV (IMV). Some MV acquire an additional double layer of intracellular membrane (derived from the early endosomes or the trans-Golgi network) that contain unique virus proteins, to form WV (IEV). These WV are transported, by association with the cellular microtubule network, to the periphery of the cell where fusion with the plasma membrane ultimately results in release of EV (CEV and EEV). While both MV and EV are infectious, the external antigens on the two virion forms are different, and during infection the two virion types probably bind to different cellular receptors before uptake by mechanisms described above. Virus DNA and several proteins are organized as a nucleoprotein complex within the core of all infectious virions. The MV (IMV) contains an encompassing surface membrane, lateral bodies and the nucleoprotein core complex (see Figure 1). For vaccinia virus, the core wall has a regular subunit structure. Within the vaccinia virion, negative stain indicates that the core assumes a biconcave shape (Figure 1), apparently due to the large lateral bodies. Although the internal structure of vaccinia virions is revealed in thin sections, the detailed internal structure of parapoxvirus particles is less evident (Figure 1). In negatively stained preparations of parapoxviruses, superimposition of dorsal and ventral views of the surface filament sometimes produces a distinctive “criss-cross” surface appearance.
+
+During natural infections, the virus is probably spread within an animal by EV (IEV and CEV) or through the movement of infected cells. A recent in vitro study has shown that infected cells, even before they have assembled infectious virions, can repel superinfecting virions and form actin-driven cellular projections (“actin tails” or “actin rockets”) that can further propel the superinfecting virion towards uninfected target cells, thereby rapidly spreading the infection.
+
+Antigenic properties
+Within each genus of the subfamily Chordopoxvirinae there is considerable serologic cross-protection and cross-reactivity. Neutralizing antibodies are genus-specific. The nucleoprotein antigen, obtained by treatment of virus suspensions with 0.04 M NaOH and 56 °C treatment of virus suspensions, is highly cross-reactive among members. Orthopoxviruses have hemagglutinin antigens, although this is rare in other genera.
+
+Biological properties
+Transmission of various members of the subfamily Chordopoxvirinae occurs by (1) aerosol, (2) direct contact, (3) arthropods (via mechanical means), or (4) indirect contact via fomites; transmission of members of the subfamily Entomopoxvirinae occurs between arthropods by mechanical means. Host range may be broad in laboratory animals and in tissue culture; however, in nature it is generally narrow. Many poxviruses of vertebrates produce dermal maculopapular, vesicular rashes after systemic or localized infections. Poxviruses infecting humans are zoonotic except for molluscum contagiosum virus (MOCV) and the orthopoxvirus variola virus (VARV) (the etiologic agent of smallpox, now eradicated). Members may or may not be occluded within proteinaceous inclusions (subfamily Chordopoxvirinae: acidophilic (A-type) inclusion bodies, or subfamily Entomopoxvirinae: occlusions or spheroids). Occlusions may protect such poxviruses in environments where transmission possibilities are limited. Neutralizing antibodies and cell-mediated immunity play a major role in clearance of vertebrate poxvirus infections. Reinfection rates are generally low and usually less severe. Molluscum contagiosum infections may recur, especially by autoinoculation of other areas of the skin with virus derived from the original lesions (e.g., by scratching).
+
+Taxa demarcation criteria in the family
+The following criteria are used as a guideline to establish taxonomic status:
+
+Natural host range. In some cases, host range may be very narrow, and in others very broad, but in most cases, the delineation of the natural host(s) is a defining characteristic.
+Phylogenetic analysis. Taxonomic groupings can in most cases be readily inferred from the evolutionary clades observed following phylogenetic inference. For new virus isolates, levels of clade separation similar to those of existing taxa are suggestive of the necessity of creating a new taxon.
+Nucleotide sequence identity. Within the conserved, core region of orthopoxvirus species, nucleotide sequence identity of >96% is observed between isolates of all non-North American species. Isolates within a species exhibit >98% nucleotide identity. These levels of identity are sufficiently high that it is frequently difficult to obtain the resolution necessary to use the shared core region of poxvirus genomes as a definitive demarcation criterion. Outside the conserved core region, genome and gene alignments become much more difficult and subjective.
+Amino acid or nucleotide sequence identity between specific, commonly shared genes. Sequence polymorphisms within genes such as the hemagglutinin or A-type inclusion protein can frequently exhibit high levels of variation that provide the resolving power necessary to make demarcation decisions.
+Gene content comparisons. The variability in the content and conservation of gene sequences between poxvirus isolates can serve as a distinguishing characteristic.
+Organization of the genome. Syntenic relationships between genes may in some cases serve to distinguish taxa. But similar to nucleotide sequence identity, conservation of gene synteny can frequently be so high that the resolving power is not available to distinguish between taxa.
+Growth characteristics and host range in cell culture. Characteristics of in vitro growth such as the production and morphology of pocks produced on the chorioallantoic membranes of embryonated chicken eggs or plaque characteristics on cell monolayers may distinguish between taxa.
+Disease characteristics. The morbidity, mortality and other distinguishing features of the disease resulting from poxvirus infection can be used to support taxonomic decisions.
+Serological criteria, including plaque neutralization tests and cross-protection in animals, may help to identify new, unique isolates and serve as a criterion for taxonomic demarcation.
+Nomenclature of Poxvirus species
+Most chordopoxvirus species names consist of two parts:
+
+As prefix, a term describing the host from which the Poxvirus is normally isolated and, as a suffix, the term “pox”. The prefix should be relevant in nature and scale to the taxonomic entity that best represents the relevant host taxon.
+The word “virus”.
+In some cases, intervening terminology describes a clinical feature of the disease caused by the virus.
+
+This nomenclature is normally used for poxviruses that cause characteristic pock-like skin lesions. For those that do not, the following nomenclature would normally be used:
+
+A term describing the host from which the poxvirus is normally isolated; it should be relevant in nature and scale to the taxonomic entity that best represents the relevant host taxon.
+The word “poxvirus” (preferred), though “virus” is also used.
+In some case, intervening terminology describes a clinical feature of the disease caused by the virus.
+
+For the entomopoxviruses, the formal taxonomic name (genus, species) of the host precedes the term “entomopoxvirus”. “L” refers to lepidopteran, “O” to orthopteran.
+
+Subfamily: Chordopoxvirinae
+Distinguishing features
+Includes brick-shaped or ovoid poxviruses of vertebrates with a low G+C content (3040%), except for the parapoxviruses (64%) and MOCV (63%). Extensive serologic cross-reaction and cross-protection is observed within genera, though this is less obvious among the avipoxviruses. A common, conserved co-linear signature core of genes within genera (and in the case of mammalian viruses, spanning genera) is generally maintained with most divergence amongst members occurring at the terminal extremities of the genome. The co-linear signature of core genes appears different for mammalian, avian and insect poxvirus genera. Some viruses produce pocks on the chorioallantoic membranes of embryonated chicken eggs.
+
+Genus Avipoxvirus
+Type species Fowlpox virus
+
+Distinguishing features
+Virions are brick-shaped, about 330×280×200 nm. Infectivity is usually ether-resistant. The genus includes viruses of birds that usually produce proliferative skin lesions (cutaneous form) and/or upper digestive/respiratory tract lesions (diptheritic form), though pneumonic presentation is also seen (e.g. canarypox virus). Cross-protection is variable. Viruses are primarily transmitted mechanically by arthropods, by direct contact or through aerosols. The genomic DNA is about 300 kbp in size. Viruses exhibit extensive serologic cross-reaction. Viruses produce A-type inclusion bodies with considerable amounts of lipid. Viruses grow productively in avian cell cultures, but abortively in mammals and the mammalian cell lines that have been examined. Viruses have been isolated worldwide from more than 250 species of birds but little is known about the total number of species, their host range and their geographic range.
+
+Species demarcation criteria in the genus
+Provisional species demarcation criteria include disease characteristics, nature of the host and ecological niche, growth characteristics on the chicken chorioallantoic membrane, host range in cell culture and cross-neutralization. Restriction enzyme fragment length polymorphisms (RFLP) analysis and cross-hybridization have been used but genomic DNA sequencing studies are becoming more common. The genus comprises highly diverged viruses falling into at least three major clades. Two of these clades, represented by fowlpox-like viruses and canarypox-like viruses (see Figure 4 below), contain fully-sequenced viruses, which show divergence comparable to that observed between some of the genera of mammalian viruses (e.g. in the genera Suipoxvirus and Capripoxvirus). Poxviruses of psittacine birds appear to represent a third, similarly diverged clade. Divergence to this extent renders it extremely difficult to identify pan-genus oligonucleotide probes for PCR amplification and sequencing, and consequently existing phylogenetic information across the genus is limited to less than a handful of gene loci. The situation will improve with genome sequencing of a wider range of representative isolates. Until such data provide a better picture of the overall phylogenetic structure of the avian poxviruses, they remain as a single genus.
+
+List of species in the genus Avipoxvirus
+ 
+
+Canarypox virus
+
+ 
+
+ 
+
+ Canarypox virus
+
+[AY318871=NC_005309]
+
+(CNPV)
+
+Fowlpox virus
+
+ 
+
+ 
+
+ Fowlpox virus
+
+[AF198100=NC_002188, AJ581527]
+
+(FWPV)
+
+Juncopox virus
+
+ 
+
+ 
+
+ Juncopox virus
+
+ 
+
+(JNPV)
+
+Mynahpox virus
+
+ 
+
+ 
+
+ Mynahpox virus
+
+ 
+
+(MYPV)
+
+Pigeonpox virus
+
+ 
+
+ 
+
+ Pigeonpox virus
+
+ 
+
+(PGPV)
+
+Psittacinepox virus
+
+ 
+
+ 
+
+ Psittacinepox virus
+
+ 
+
+(PSPV)
+
+Quailpox virus
+
+ 
+
+ 
+
+ Quailpox virus
+
+ 
+
+(QUPV)
+
+Sparrowpox virus
+
+ 
+
+ 
+
+ Sparrowpox virus
+
+ 
+
+(SRPV)
+
+Starlingpox virus
+
+ 
+
+ 
+
+ Starlingpox virus
+
+ 
+
+(SLPV)
+
+Turkeypox virus
+
+ 
+
+ 
+
+ Turkeypox virus
+
+ 
+
+(TKPV)
+
+Species names are in italic script; names of isolates are in roman script. Full genome sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+List of other related viruses which may be members of the genus Avipoxvirus but have not been approved as species
+ 
+
+Crowpox virus
+
+ 
+
+(CRPV)
+
+Peacockpox virus
+
+ 
+
+(PKPV)
+
+Penguinpox virus
+
+ 
+
+(PEPV)
+
+ 
+
+Genus Capripoxvirus
+Type species Sheeppox virus
+
+Distinguishing features
+Virions are brick-shaped, about 300×270×200 nm. Infectivity is sensitive to trypsin and ether. The genus includes viruses of sheep, goats and cattle. Viruses can be mechanically transmitted by arthropods and by direct contact or fomites. The genomic DNA is about 154 kbp in size. There is extensive DNA cross-hybridization between species. In addition, extensive serologic cross-reaction and cross-protection is observed among members.
+
+Species demarcation criteria in the genus
+Provisional species demarcation criteria have included RFLP analysis while more recently genomic DNA sequence analysis has become more important.
+
+List of species in the genus Capripoxvirus
+ 
+
+Goatpox virus
+
+ 
+
+ 
+
+ Goatpox virus G20-LKV
+
+[AY077836]
+
+(GTPV-G20)
+
+ Goatpox virus Pellor
+
+[AY077835=NC_004003]
+
+(GTPV-Pell)
+
+Lumpy skin disease virus
+
+ 
+
+ 
+
+ Lumpy skin disease virus NI-2490
+
+[AF325528=NC_003027]
+
+(LSDV-NI)
+
+ Lumpy skin disease virus NW-LW
+
+[AF409137]
+
+(LSDV-NW)
+
+Sheeppox virus
+
+ 
+
+ 
+
+ Sheeppox virus A
+
+[AY077833]
+
+(SPPV-A)
+
+ Sheeppox virus NISKHI
+
+[AY077834]
+
+(SPPV-NIS)
+
+ Sheeppox virus 17077-99
+
+[AY077832=NC_004002]
+
+(SPPV-17077-99)
+
+Species names are in italic script; names of isolates are in roman script. Full genome sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+Genus Cervidpoxvirus
+Type species Deerpox virus W-848-83
+
+Distinguishing features
+Deerpox viruses (DPVs) are poorly characterized viruses responsible for non-parapoxvirus-like infections in members of two subfamilies of cervids, American deer (Odocoileinae) and reindeer (Rangiferinae). Until recently, there has been insufficient information available to classify these chordopoxviruses but the protein coding regions of DPV isolate W-848-83 (W83) and W-1170-84 (W84) have now been determined. DNA sequence comparisons of DPV-W83 with available genomic sequences of members of the subfamily Chordopoxvirinae indicate that DPV-W83 is most similar to members of the genera Capripoxvirus, Suipoxvirus, Leporipoxvirus and Yatapoxvirus, yet the phylogenetic distance estimate between DPV-W83 and members of these genera is of a similar order of magnitude as the distance between these genera. DPVs are also distinguished from members of these genera by the presence of five DPV-specific genes and an ortholog of VACV A31R that has so far been observed only in orthopoxviruses and avipoxviruses. The sum total of the data support the continued status of Deerpox virus W-848-83 as the type species in the new Cervidpoxvirus genus in the subfamily Chordopoxvirinae. It should be noted, however, that a proposal to change the name of this species is currently under consideration.
+
+List of species in the genus Cervidpoxvirus
+ 
+
+Deerpox virus W-848-83
+
+ 
+
+ 
+
+ Deerpox virus W-848-83
+
+[AY689436=NC_006966]
+
+(DPV W-848-83)
+
+ Deerpox virus W-1170-84
+
+[AY689437=NC_006967]
+
+(DPV W-1170-84)
+
+Species names are in italic script; names of isolates are in roman script. Full genome sequence accessions [ ] and assigned abbreviations ( ) are also listed.
+
+Genus Leporipoxvirus
+Type species Myxoma virus
+
+Distinguishing features
+Virions are brick-shaped, about 300 250 200 nm. Infectivity is ether-sensitive. The genus includes viruses of lagomorphs and squirrels with extended cell culture host range. Usually, viruses are mechanically transmitted by arthropods; but they are also transmitted by direct contact and fomites. Myxoma and fibroma viruses cause localized benign tumor-like lesions in their natural hosts. Myxoma viruses cause severe generalized disease in European rabbits. The genomic DNA is about 160 kbp, and the G+C content about 40%. Extensive DNA cross-hybridization is observed between member viruses. Serologic cross-reaction and cross-protection have been demonstrated between different species.
+
+Species demarcation criteria in the genus
+Provisional species demarcation criteria include various serological criteria, including plaque neutralization tests, cross-protection in animals and agar diffusion methods. Distribution, ecological niche, host range and disease, plaque characteristics, host range in cell culture, and RFLP analysis have been useful and genomic DNA sequence analysis is now expected.
+
+List of species in the genus Leporipoxvirus
+ 
+
+Hare fibroma virus
+
+ 
+
+ 
+
+ Hare fibroma virus
+
+ 
+
+(FIBV)
+
+Myxoma virus
+
+ 
+
+ 
+
+ Myxoma virus Lausanne
+
+[AF170726=NC_001132]
+
+(MYXV-LAU)
+
+Rabbit fibroma virus
+
+ 
+
+ 
+
+ Rabbit fibroma virus
+
+[AF170722=NC_001266]
+
+(RFV)
+
+ (Shope fibroma virus)
+
+ 
+
+(SFV)
+
+Squirrel fibroma virus
+
+ 
+
+ 
+
+ Squirrel fibroma virus
+
+ 
+
+(SQFV)
+
+Species names are in italic script; names of isolates are in roman script; names of synonyms are in roman script and parentheses. Sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+Genus Molluscipoxvirus
+Type species Molluscum contagiosum virus
+
+Distinguishing features
+Virions are brick-shaped, about 320×250×200 nm. Their buoyant density in CsCl is about 1.288 g cm−3. The genomic DNA is about 190 kbp in size and G+C content is >60%. DNAs cross-hybridize extensively. RFLP maps suggest four sequence divergences among the isolates examined. Molluscum contagiosum virus (MOCV) has not been propagated in tissue cultures. It is transmitted mechanically by direct contact between children, or between young adults. It is often sexually transmitted. Sometimes the virus causes opportunistic infections of persons with eczema or AIDS. Virus produces localized lesions containing enlarged cells with cytoplasmic inclusions known as molluscum bodies. Infections can recur and lesions may be disfiguring when combined with bacterial infections. Unnamed viruses of horses, donkeys, and chimpanzees have also been identified.
+
+List of species in the genus Molluscipoxvirus
+ 
+
+Molluscum contagiosum virus
+
+ 
+
+ 
+
+ Molluscum contagiosum virus
+
+[U60315=NC_001731]
+
+(MOCV)
+
+Species names are in italic script; names of isolates are in roman script. Full genome sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+Genus Orthopoxvirus
+Type species Vaccinia virus
+
+Distinguishing features
+Virions are brick-shaped, about 200×200×250 nm. Infectivity is ether-resistant. Extensive serologic cross-reactivity exists between the viruses. Virus-infected cells synthesize a hemagglutinin (HA) glycoprotein that contributes to the modification of cell membranes and enables hemadsorption and hemagglutination of certain avian erythrocytes and alteration of the envelope of extracellular enveloped viruses. Neutralization sites on enveloped viruses are distinct from those on IMVs. The host range is broad in laboratory animals and tissue culture; in nature it may be relatively narrow. Most infections are generalized and disseminated. The genomic DNA is 170250 kbp, and the G+C content is about 36%. The DNAs cross-hybridize extensively between members of the genus and sometimes with DNA of members of other genera. By comparison to the American species, DNA restriction maps suggest independent evolution of the Eurasian-African species.
+
+Species demarcation criteria in the genus
+The criteria are provisional and reflect the fact that species definitions can be rather arbitrary and reflective of attempts to define natural transmission lineages. Most orthopoxviruses contain a hemagglutinin (HA) and many contain an A-type inclusion protein; polymorphisms within these genes distinguish species. Species can be classified by pock morphologies and by ceiling temperature for growth on the chorioallantoic membrane of embryonated chicken eggs. Ecological niche and host range are useful in some cases, but in others (rabbitpox virus and buffalopox virus) these can be misleading. RFLP analysis of the terminal regions of viral DNA outside of the core of common genes has aided the classification process. Detailed polymerase chain reaction (PCR) polymorphism analysis throughout the entire genome and subsequent genomic DNA sequencing studies have shown all orthopoxviruses to be unique. With genomic sequence analysis, it has become apparent that members of the species Cowpox virus are not monophyletic, as indicated by the different positions of cowpox virus GRI-90 and cowpox virus Brighton Red in the phylogenetic structure of the genus Orthopoxvirus (see Figure 4 below). This is still not reflected in the current taxonomy because the results of a wide-scale genome sequence study to clarify the issue are pending.
+
+List of species in the genus Orthopoxvirus
+ 
+
+Camelpox virus
+
+ 
+
+ 
+
+ Camelpox virus CMS
+
+[AY009089]
+
+(CMLV-CMS)
+
+ Camelpox virus M-96
+
+[AF438165=NC_003391]
+
+(CMLV-M-96)
+
+Cowpox virus
+
+ 
+
+ 
+
+ Cowpox virus Brighton Red
+
+[AF482758=NC_003663]
+
+(CPXV-BR)
+
+ Cowpox virus GRI-90
+
+[X94355]
+
+(CPXV-GRI)
+
+Ectromelia virus
+
+ 
+
+ 
+
+ Ectromelia virus Moscow
+
+[AF012825=NC_004105]
+
+(ECTV-MOS)
+
+Monkeypox virus
+
+ 
+
+ 
+
+ Monkeypox virus Zaire-96-I-16
+
+[AF380138=NC_003310]
+
+(MPXV-ZAI)
+
+Raccoonpox virus
+
+ 
+
+ 
+
+ Raccoonpox virus
+
+ 
+
+(RCNV)
+
+Taterapox virus
+
+ 
+
+ 
+
+ Taterapox virus
+
+[DQ437594=NC_008291]
+
+(GBLV)
+
+Vaccinia virus
+
+ 
+
+ 
+
+ Buffalopox virus
+
+ 
+
+(BPXV)
+
+ Cantagalo virus
+
+ 
+
+(CTGV)
+
+ Rabbitpox virus Utrecht
+
+ 
+
+(RPXV-UTR)
+
+ Vaccinia virus Ankara
+
+[AM501482]
+
+(VACV-ANK)
+
+ Vaccinia virus Copenhagen
+
+[M35027]
+
+(VACV-COP)
+
+ Vaccinia virus WR
+
+[AY243312=NC_006998]
+
+(VACV-WR)
+
+Variola virus
+
+ 
+
+ 
+
+ Variola major virus Bangladesh-1975
+
+[L22579]
+
+(VARV-BSH)
+
+ Variola major virus India-1967
+
+[X69198=NC_001611]
+
+(VARV-IND)
+
+ Variola virus minor Garcia-1966
+
+[Y16780]
+
+(VARV-GAR)
+
+Volepox virus
+
+ 
+
+ 
+
+ Volepox virus
+
+ 
+
+(VPXV)
+
+Species names are in italic script; names of isolates are in roman script. Sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+List of other related viruses which may be members of the genus Orthopoxvirus but have not been approved as species
+ 
+
+Skunkpox virus
+
+ 
+
+(SKPV)
+
+Uasin Gishu disease virus
+
+ 
+
+(UGDV)
+
+ 
+
+Genus Parapoxvirus
+Type species Orf virus
+
+Distinguishing features
+Virions are ovoid, 220300 ×140170 nm in size, with a surface filament that may appear as a regular cross-hatched, spiral coil involving a continuous thread. Infectivity is ether-sensitive. DNA is 130150 kbp in size; G+C content is about 64%. Most species show extensive DNA cross-hybridization and serological cross-reactivity. Cross-hybridizations and DNA maps suggest extensive sequence divergence among members, higher than seen for members of the genus Orthopoxvirus. Generally the member viruses come from ungulates and domesticated livestock. They exhibit a narrow cell culture host range.
+
+Species demarcation criteria in the genus
+Originally the major provisional species demarcation criterion was host range, coupled with RFLP and cross-hybridization analyses at the terminal regions of the genome, external to the core of conserved genes. With expansion of the genus, the host-range distinctions became less relevant and genomic sequence data are now more important.
+
+List of species in the genus Parapoxvirus
+ 
+
+Bovine papular stomatitis virus
+
+ 
+
+ 
+
+ Bovine papular stomatitis virus
+
+[AY386265=NC_005337]
+
+(BPSV)
+
+Orf virus
+
+ 
+
+ 
+
+ Orf virus
+
+[AY386264=NC_005336]
+
+(ORFV)
+
+ (Contagious pustular dermatitis virus)
+
+ 
+
+ 
+
+ (Contagious ecthyma virus)
+
+ 
+
+ 
+
+Parapoxvirus of red deer in New Zealand
+
+ 
+
+ 
+
+ Parapoxvirus of red deer in New Zealand
+
+ 
+
+(PVNZ)
+
+Pseudocowpox virus
+
+ 
+
+ 
+
+ Pseudocowpox virus
+
+ 
+
+(PCPV)
+
+ (Milker’s nodule virus)
+
+ 
+
+ 
+
+ (Paravaccinia virus)
+
+ 
+
+ 
+
+Species names are in italic script; names of isolates are in roman script; names of synonyms are in roman script and parentheses. Sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+List of other related viruses which may be members of the genus Parapoxvirus but have not been approved as species
+ 
+
+Auzduk disease virus
+
+ 
+
+ 
+
+Camel contagious ecthyma virus
+
+ 
+
+ 
+
+Chamois contagious ecthyma virus
+
+ 
+
+ 
+
+Sealpox virus
+
+ 
+
+ 
+
+ 
+
+Genus Suipoxvirus
+Type species Swinepox virus
+
+Distinguishing features
+Virions are brick-shaped, about 300×250×200 nm. The genomic DNA is about 175 kbp in size with inverted terminal repeats of about 5 kbp. Virus forms foci or plaques in pig kidney cell culture (one-step growth is about 3 days at 37 °C) and plaques in swine testes cell cultures. Virus causes asymptomatic generalized skin disease in swine that appears to be localized to epithelial cells and draining lymph nodes. Virus neutralizing antibodies are not usually detected. Mechanical transmission by arthropods (probably lice) is suspected. Viruses have a worldwide distribution. Rabbits can be infected experimentally; however serial transmission in rabbits is unsuccessful.
+
+List of species in the genus Suipoxvirus
+ 
+
+Swinepox virus
+
+ 
+
+ 
+
+ Swinepox virus
+
+[AF410153=NC_003389]
+
+(SWPV)
+
+Species names are in italic script; names of isolates are in roman script. Full genome sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+Genus Yatapoxvirus
+Type species Yaba monkey tumor virus
+
+Distinguishing features
+Virions are brick-shaped, about 300×250×200 nm. The genomic DNA is about 145 kbp in size, and the G+C content is about 33%. Although DNAs cross-hybridize extensively, DNA RFLP maps suggested major sequence divergences between Tanapox virus (TANV) and Yaba monkey tumor virus (YMTV); this was confirmed by complete genome sequences of both viruses. YMTV in primates causes histiocytomas, which are tumour-like masses of mononuclear cells. Viruses have been isolated from captive monkeys, baboons and experimentally infected rabbits. Accidental human infection in the laboratory has been reported. Human infection due to TANV has been observed in equatorial Africa and in laboratory personnel handling infected primates. In primates, TANV produces localized lesions that likely result from mechanical transmission by insects generally during the rainy season in African rain forests. Lesions commonly contain virions with a double-layer envelope surrounding the viral surface membrane. Yaba-like disease virus should be regarded as a strain of tanapox virus (strain Davis) isolated directly from primates.
+
+Species demarcation criteria in the genus
+Species demarcation criteria include RFLP analysis, genomic DNA sequencing studies, serological criteria including cross-protection in animals and plaque neutralization tests, geographical distribution, ecological niche and nature of the disease.
+
+List of species in the genus Yatapoxvirus
+ 
+
+Tanapox virus
+
+ 
+
+ 
+
+ (Yaba-like Disease virus)
+
+ 
+
+ 
+
+ Tanapox virus
+
+[EF420156=NC_009888]
+
+(TANV)
+
+ Yaba-like Disease virus
+
+[AJ293568=NC_002642]
+
+(YLDV)
+
+Yaba monkey tumor virus
+
+ 
+
+ 
+
+ Yaba monkey tumor virus
+
+[AY386371=NC_005179]
+
+(YMTV)
+
+Species names are in italic script; names of isolates are in roman script. Full genome sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+List of unassigned species in the subfamily Chordopoxvirinae
+ 
+
+Squirrel poxvirus
+
+ 
+
+ 
+
+ Squirrel poxvirus
+
+ 
+
+SQPV
+
+Species names are in italic script; names of isolates are in roman script. Full genome sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+Although previously classified as a parapoxvirus due to morphological similarities when viewed by electron microscopy, careful examination suggests that squirrel parapoxvirus (SPPV) virions possess a longitudinal regular cross-hatched spiral coil surface element rather than the transverse surface element seen in the other parapoxviruses. Again, although similar in length to the parapoxviruses (280320 nm), the virion is more brick shaped with a width estimated at approximately 180220 nm (compared with 140170 nm). The virus is also antigenically distinct from the type species of the Parapoxvirus genus, Orf virus, with only 2 out of 27 monoclonal antibodies raised against orf virus (ORFV) cross-reacting with SPPV. Sequence analysis of the genomic termini of the SPPV genome also failed to find genes characteristic of the parapoxviruses and instead found numerous putative genes that, so far, do not have counterparts in any of the other sequenced poxviruses. Phylogenetic analysis (see Figure 4 below) also supports a classification separate from the parapoxviruses and indeed from all the other currently recognized genera. Taken together these data indicated that SPPV did not belong in the genus Parapoxvirus. It was therefore renamed Squirrel poxvirus (SQPV) as an unassigned species in the subfamily Chordopoxvirinae, though a proposal to rationalize the nomenclature by changing the name to Squirrelpox virus is under consideration.
+
+List of other related viruses which may be members of the subfamily Chordopoxvirinae but have not been approved as species
+ 
+
+California harbor seal poxvirus
+
+ 
+
+ 
+
+Cotia virus
+
+ 
+
+ 
+
+Dolphin poxvirus
+
+ 
+
+ 
+
+Embu virus
+
+ 
+
+ 
+
+Grey kangaroo poxvirus
+
+ 
+
+ 
+
+Marmosetpox virus
+
+ 
+
+ 
+
+Molluscum-like poxvirus
+
+ 
+
+ 
+
+Nile crocodile poxvirus
+
+[DQ356948=NC_008030]
+
+(CRV)
+
+Quokka poxvirus
+
+ 
+
+ 
+
+Red kangaroo poxvirus
+
+ 
+
+ 
+
+Salanga poxvirus
+
+ 
+
+ 
+
+Spectacled caiman poxvirus
+
+ 
+
+ 
+
+Yoka poxvirus
+
+ 
+
+ 
+
+ 
+
+With the assignment of Deerpox virus W-848-83 as type species of the new genus Cervidpoxvirus, mule deer poxvirus (a synonym for deerpox virus) has been removed from the current list of unassigned viruses in the subfamily Chordopoxvirinae.
+
+The genome sequence of an isolate of Nile crocodile poxvirus (CRV) has been reported, indicating it to be diverged from the mammalian poxvirus genera and from the Avipoxvirus genus. It is likely that CRV will become the type species of a new genus representing poxviruses of the Crocodylidae. It remains to be seen whether genome sequencing in the longer term will indicate that other poxviruses of Crocodilia (or even Reptilia) in general could be encompassed in the same genus.
+
+Subfamily Entomopoxvirinae
+Taxonomic structure of the subfamily
+Subfamily Entomopoxvirinae
+
+Genus Alphaentomopoxvirus
+
+Genus Betaentomopoxvirus
+
+Genus Gammaentomopoxvirus
+
+Distinguishing features
+Entomopoxviruses infect insects. The viruses include different morphologic forms, e.g., brick-shaped, or ovoid. They are about 70250×350 nm in size and are chemically similar to other family members. Virions contain at least four enzymes equivalent to those found in vaccinia virus. Virions of several morphological types have globular surface units that give a mulberry-like appearance; some have one lateral body, others have two. The DNA G+C content is about 20%. A common co-linear signature of core genes, different from those of members of the subfamily Chordopoxvirinae, is beginning to emerge, and is characteristic of the subfamily. No serologic relationships have been demonstrated between entomopoxviruses and chordopoxviruses. Entomopoxviruses replicate in the cytoplasm of insect cells (hemocytes and adipose tissue cells). Mature virions are usually occluded in spheroids comprised of a major crystalline occlusion body protein (termed “spheroidin”). The subdivision into genera is based on virion morphology, host range and the genome sizes of a few isolates. The genetic basis for these different traits is unknown.
+
+Genus Alphaentomopoxvirus
+Type species Melolontha melolontha entomopoxvirus
+
+Distinguishing features
+The genus includes poxviruses of Coleoptera. Virions are ovoid, about 450×250 nm in size, with one lateral body and a unilateral concave core. Surface globular units are 22 nm in diameter. The genomic DNA is about 260370 kbp in size.
+
+Species demarcation criteria in the genus
+The primary species demarcation criterion is currently host range recognizing that adequate molecular information is limited and available for only two members. In the future, genetic content, gene order and RFLP analysis between members within a defined region of the genome and cross-hybridization analysis are likely to be useful. Serological criteria including plaque and virus neutralization tests are also used.
+
+List of species in the genus Alphaentomopoxvirus
+ 
+
+Anomala cuprea entomopoxvirus
+
+ 
+
+ 
+
+ Anomala cuprea entomopoxvirus
+
+ 
+
+(ACEV)
+
+Aphodius tasmaniae entomopoxvirus
+
+ 
+
+ 
+
+ Aphodius tasmaniae entomopoxvirus
+
+ 
+
+(ATEV)
+
+Demodema boranensis entomopoxvirus
+
+ 
+
+ 
+
+ Demodema boranensis entomopoxvirus
+
+ 
+
+(DBEV)
+
+Dermolepida albohirtum entomopoxvirus
+
+ 
+
+ 
+
+ Dermolepida albohirtum entomopoxvirus
+
+ 
+
+(DAEV)
+
+Figulus subleavis entomopoxvirus
+
+ 
+
+ 
+
+ Figulus subleavis entomopoxvirus
+
+ 
+
+(FSEV)
+
+Geotrupes sylvaticus entomopoxvirus
+
+ 
+
+ 
+
+ Geotrupes sylvaticus entomopoxvirus
+
+ 
+
+(GSEV)
+
+Melolontha melolontha entomopoxvirus
+
+ 
+
+ 
+
+ Melolontha melolontha entomopoxvirus
+
+ 
+
+(MMEV)
+
+Species names are in italic script; names of isolates are in roman script. Assigned abbreviations ( ) are also listed.
+
+Genus Betaentomopoxvirus
+Type species Amsacta moorei entomopoxvirus “L”
+
+Distinguishing features
+The genus includes poxviruses of Lepidoptera and Orthoptera. Virions are ovoid, about 350×250 nm in size, with a sleeve-shaped lateral body and cylindrical core. Surface globular units are 40 nm in diameter. The genomic DNA is about 225 kbp in size with covalently closed termini and inverted terminal repetitions. The G+C content is about 18.5%. Viruses produce a 115 kDa occlusion body protein encoded by the spheroidin gene.
+
+Species demarcation criteria in the genus
+The main species demarcation criteria are currently host range and virion morphology. Serological criteria based on plaque neutralization may also be used. Genetic content, gene order, RFLPs within specific genes or within larger selected regions of the genome and nucleic acid cross-hybridization analysis are likely to become increasingly important. The species Melanoplus sanguinipes entomopoxvirus “O” was previously removed from the genus Betaentomopoxvirus (and is now unclassified within the subfamily) based on genomic DNA sequence comparisons with the type species. This suggests that other betaentomopoxviruses, so classified based on morphological and host range criteria, may eventually need reclassification once sequence information becomes available.
+
+List of species in the genus Betaentomopoxvirus
+ 
+
+Acrobasis zelleri entomopoxvirus “L”
+
+ 
+
+ 
+
+ Acrobasis zelleri entomopoxvirus “L”
+
+ 
+
+(AZEV)
+
+Amsacta moorei entomopoxvirus “L”
+
+ 
+
+ 
+
+ Amsacta moorei entomopoxvirus “L”
+
+[AF250284=NC_002520]
+
+(AMEV)
+
+Arphia conspersa entomopoxvirus “O”
+
+ 
+
+ 
+
+ Arphia conspersa entomopoxvirus “O”
+
+ 
+
+(ACOEV)
+
+Choristoneura biennis entomopoxvirus “L”
+
+ 
+
+ 
+
+ Choristoneura biennis entomopoxvirus “L”
+
+ 
+
+(CBEV)
+
+Choristoneura conflicta entomopoxvirus “L”
+
+ 
+
+ 
+
+ Choristoneura conflicta entomopoxvirus “L”
+
+ 
+
+(CCEV)
+
+Choristoneura diversuma entomopoxvirus “L”
+
+ 
+
+ 
+
+ Choristoneura diversuma entomopoxvirus “L”
+
+ 
+
+(CDEV)
+
+Choristoneura fumiferana entomopoxvirus “L”
+
+ 
+
+ 
+
+ Choristoneura fumiferana entomopoxvirus “L”
+
+ 
+
+(CFEV)
+
+Chorizagrotis auxiliars entomopoxvirus “L”
+
+ 
+
+ 
+
+ Chorizagrotis auxiliars entomopoxvirus “L”
+
+ 
+
+(CXEV)
+
+Heliothis armigera entomopoxvirus “L”
+
+ 
+
+ 
+
+ Heliothis armigera entomopoxvirus “L”
+
+ 
+
+(HAVE)
+
+Locusta migratoria entomopoxvirus “O”
+
+ 
+
+ 
+
+ Locusta migratoria entomopoxvirus “O”
+
+ 
+
+(LMEV)
+
+Oedaleus senigalensis entomopoxvirus “O”
+
+ 
+
+ 
+
+ Oedaleus senigalensis entomopoxvirus “O”
+
+ 
+
+(OSEV)
+
+Operophtera brumata entomopoxvirus “L”
+
+ 
+
+ 
+
+ Operophtera brumata entomopoxvirus “L”
+
+ 
+
+(OBEV)
+
+Schistocera gregaria entomopoxvirus “O”
+
+ 
+
+ 
+
+ Schistocera gregaria entomopoxvirus “O”
+
+ 
+
+(SGEV)
+
+Species names are in italic script; names of isolates are in roman script. “L” represents lepidopteran, “O” represents orthopteran. Full genome sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+Genus Gammaentomopoxvirus
+Type species Chironomus luridus entomopoxvirus
+
+Distinguishing features
+This genus includes poxviruses of Diptera. Virions are brick-shaped, about 320×230×110 nm in size, with two lateral bodies and a biconcave core. The genomic DNA is about 250380 kbp in size.
+
+Species demarcation criteria in the genus
+The major species demarcation criterion is currently host range. However, as molecular information becomes available, genetic content, gene order and RFLPs within specific genes or within larger selected regions of the genome and cross-hybridization studies are likely to become increasingly important. Again, serological criteria, such as plaque neutralization, can be considered.
+
+List of species in the genus Gammaentomopoxvirus
+ 
+
+Aedes aegypti entomopoxvirus
+
+ 
+
+ 
+
+ Aedes aegypti entomopoxvirus
+
+ 
+
+(AAEV)
+
+Camptochironomus tentans entomopoxvirus
+
+ 
+
+ 
+
+ Camptochironomus tentans entomopoxvirus
+
+ 
+
+(CTEV)
+
+Chironomus attenuatus entomopoxvirus
+
+ 
+
+ 
+
+ Chironomus attenuatus entomopoxvirus
+
+ 
+
+(CAEV)
+
+Chironomus luridus entomopoxvirus
+
+ 
+
+ 
+
+ Chironomus luridus entomopoxvirus
+
+ 
+
+(CLEV)
+
+Chironomus plumosus entomopoxvirus
+
+ 
+
+ 
+
+ Chironomus plumosus entomopoxvirus
+
+ 
+
+(CPEV)
+
+Goeldichironomus haloprasimus entomopoxvirus
+
+ 
+
+ 
+
+ Goeldichironomus haloprasimus entomopoxvirus
+
+ 
+
+(GHEV)
+
+Species names are in italic script; names of isolates are in roman script. Assigned abbreviations ( ) are also listed.
+
+List of unassigned species in the subfamily Entomopoxvirinae
+ 
+
+Diachasmimorpha entomopoxvirus
+
+ 
+
+ 
+
+ Diachasmimorpha entomopoxvirus
+
+ 
+
+(DIEV)
+
+Melanoplus sanguinipes entomopoxvirus
+
+ 
+
+ 
+
+ Melanoplus sanguinipes entomopoxvirus
+
+[AF063866=NC_001993]
+
+(MSEV)
+
+Species names are in italic script; names of isolates are in roman script. Full genome sequence accession numbers [ ] and assigned abbreviations ( ) are also listed.
+
+Phylogenetic relationships within the family Poxviridae (Figure 4)
+Members of the family Poxviridae share a characteristic virion morphology, with subtle differences between some genera. Use of serology, nucleic acid hybridization and restriction enzyme fragment polymorphism are generally limited to within-genus studies. The two subfamilies represent the fundamental difference in hosts, based on whether or not they are chordate. The subfamilies were divided into genera based on host, disease (and in vitro biological characteristics) and lack of inter-genus antigenic cross-reactivity, later using criteria reflecting the nature of the genome. Modern sequence analysis essentially supported this classification, though it is apparent that the divergence between the avian viruses is probably greater than would be accommodated within a single genus.
+
+Similarity with other taxa
+See Figure 2 in family Asfarviridae.
+
+Derivation of names
+Avi: from Latin avis, “bird”.
+
+Capri: from Latin caper, “goat”.
+
+Entomo: from Greek entomon, “insect”.
+
+Lepori: from Latin lepus, “hare”.
+
+Mollusci: from Latin molluscum, “clam”, “snail”; related to appearance of lesion.
+
+Orf: Scottish word based on Icelandic hrufa, “scab”, “boil”.
+
+Ortho: from Greek orthos, “straight”.
+
+Para: from Greek para, “by side of”.
+
+Pox: from poc, pocc, “pustule”.
+
+Sui: from Latin sus, “swine”.
+
+Yata: sigla from Yaba and tanapox viruses.
+
+Further reading
+Journals and books
+Condit et al., 2006 R.C. Condit, N. Moussatche, P. Traktman, In a nutshell: structure and assembly of the vaccinia virion. Adv. Virus Res. 66 (2006) 31124.
+
+Emerson et al., 2009 G.L. Emerson, Y. Li, M.A. Frace, M.A. Olsen-Rasmussen, M.L. Khristova, D. Govil, S.A. Sammons, R.L. Regnery, K.L. Karem, I.K. Damon, D.S. Carroll, The phylogenetics and ecology of the orthopoxviruses endemic to North America. PLoS One. 4 (2009) e7666.
+
+McFadden, 2005 G. McFadden, Poxvirus tropism. Nat. Rev. Microbiol. 3 (2005) 201213.
+
+Mercer et al., 2007 A.A. Mercer, A. Schmidt, O. Weber, Poxviruses. Birkhäuser, Basle2007.
+
+Moss, 2006 B. Moss, Poxvirus entry and membrane fusion. Virology. 344 (2006) 4854.
+
+Roberts and Smith, 2008 K.L. Roberts, G.L. Smith, Vaccinia virus morphogenesis and dissemination. Trends Microbiol. 16 (2008) 472479.
+
+Websites
+The Vaccinia Virion 3D Tour: http://vacciniamodel.com
+
+Poxvirus Bioinformatics Resource Center: http://www.poxvirus.org
+
+Contributed by
+Skinner, M.A., Buller, R.M., Damon, I.K., Lefkowitz, E.J., McFadden, G., McInnes, C.J., Mercer, A.A., Moyer, R.W. and Upton, C.
+
+Share
+History
+

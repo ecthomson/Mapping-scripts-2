@@ -1,0 +1,300 @@
+>herpes_refs
+
+Taxon namea	Common nameb	Acronymc	Strain named	GenBank accession	RefSeq accession	Genome size (kb)e	Reference
+OrderHerpesvirales
+FamilyHerpesviridae
+SubfamilyAlphaherpesvirinae
+
+
+GenusIltovirus
+Gallid herpesvirus 1*	Infectious laryngotracheitis virus	GaHV1	Composite of 6 strains		NC_006623	148,687	Thureen and Keeler (2006)
+Psittacid herpesvirus 1	Pacheco's disease virus	PsHV1	97-0001	AY372243	NC_005264	163,025	Thureen and Keeler (2006)
+
+
+GenusMardivirus
+Columbid herpesvirus 1	Pigeon herpesvirus	CoHV1	KP21/23				
+Gallid herpesvirus 2*	Marek's disease virus type 1	GaHV2	Md5	AF243438	NC_002229	177,874	Tulman et al. (2000)
+GA	AF147806		174,077	Lee et al. (2000)
+CU-2	EU499381		176,922	Spatz and Rue (2008)
+Md11 [BAC]	AY510475			Niikura et al. (2006)
+CVI988 [BAC]	DQ530348			Spatz et al. (2007a)
+RB-1B [BAC]	EF523390			Spatz et al. (2007b)
+584A [BAC]	EU627065			Spatz et al. (2008)
+Gallid herpesvirus 3	Marek's disease virus type 2	GaHV3	HPRS24	AB049735	NC_002577	164,270	Izumiya et al. (2001)
+Meleagrid herpesvirus 1	Turkey herpesvirus	MeHV1	FC126 (Burmester)	AF291866	NC_002641	159,160	Afonso et al. (2001)
+FC126	AF282130		161,484f	Kingham et al. (2001)
+
+
+GenusSimplexvirus
+Ateline herpesvirus 1	Spider monkey herpesvirus	AtHV1					
+Bovine herpesvirus 2	Bovine mammillitis virus	BoHV2					
+Cercopithecine herpesvirus 2	Simian agent 8	CeHV2	B264	AY714813	NC_006560	150,715	Tyler et al. (2005)
+Human herpesvirus 1*	Herpes simplex virus type 1	HHV1	17	X14112	NC_001806	152,261	McGeoch et al. (1988)
+17 [BAC]	FJ593289			Cunningham and Davison (unpublished)
+Human herpesvirus 2	Herpes simplex virus type 2	HHV2	HG52	Z86099	NC_001798	154,746	Dolan et al. (1998)
+Leporid herpesvirus 4	Leporid herpesvirus 4	LeHV4					
+Macacine herpesvirus 1	B virus	McHV1	E2490	AF533768	NC_004812	156,789	Perelygina et al. (2003)
+Macropodid herpesvirus 1	Parma wallaby herpesvirus	MaHV1					
+Macropodid herpesvirus 2	Dorcopsis wallaby herpesvirus	MaHV2					
+Papiine herpesvirus 2	Herpesvirus papio 2	PaHV2	X313	DQ149153	NC_007653	156,487	Tyler and Severini (2006)
+Saimiriine herpesvirus 1	Marmoset herpesvirus	SaHV1					
+
+
+GenusVaricellovirus
+Bovine herpesvirus 1	Infectious bovine rhinotracheitis virus	BoHV1	Composite of 5 strains	AJ004801	NC_001847	135,301	Schwyzer and Ackermann (1996)
+Bovine herpesvirus 5	Bovine encephalitis herpesvirus	BoHV5	SSV507/99	AY261359	NC_005261	137,821	Delhon et al. (2003)
+Bubaline herpesvirus 1	Water buffalo herpesvirus	BuHV1					
+Canid herpesvirus 1	Canine herpesvirus	CaHV1					
+Caprine herpesvirus 1	Goat herpesvirus	CpHV1					
+Cercopithecine herpesvirus 9	Simian varicella virus	CeHV9	Delta	AF275348	NC_002686	124,784	Gray et al. (2001)
+Cervid herpesvirus 1	Red deer herpesvirus	CvHV1					
+Cervid herpesvirus 2	Reindeer herpesvirus	CvHV2					
+Equid herpesvirus 1	Equine abortion virus	EHV1	Ab4	AY665713	NC_001491	150,224	Telford et al. (1992)
+V592	AY464052		149,430	Nugent et al. (2006)
+Equid herpesvirus 3	Equine coital exanthema virus	EHV3					
+Equid herpesvirus 4	Equine rhinopneumonitis virus	EHV4	NS80567	AF030027	NC_001844	145,597	Telford et al. (1998)
+Equid herpesvirus 9	Gazelle herpesvirus	EHV9	P19	AP010838	NC_011644	148,371	Fukushi et al. (unpublished)
+Felid herpesvirus 1	Feline herpesvirus 1	FHV1	C-27 [BAC]	FJ478159	NC_013590		Tai et al. (unpublished)
+Human herpesvirus 3*	Varicella-zoster virus	HHV3	Dumas	X04370	NC_001348	124,884	Davison and Scott (1986)
+Oka vaccine	AB097932		125,078	Gomi et al. (2002)
+Oka parental	AB097933		125,125	Gomi et al. (2002)
+MSP	AY548170		124,883	Grose et al. (2004)
+BC	AY548171		125,459	Grose et al. (2004)
+SD	DQ479953		125,087	Peters et al. (2006)
+Kel	DQ479954		125,374	Peters et al. (2006)
+11	DQ479955		125,370	Peters et al. (2006)
+22	DQ479956		124,868	Peters et al. (2006)
+03-500	DQ479957		125,239	Peters et al. (2006)
+36	DQ479958		125,030	Peters et al. (2006)
+49	DQ479959		125,041	Peters et al. (2006)
+8	DQ479960		125,451	Peters et al. (2006)
+32 passage 5	DQ479961		124,945	Peters et al. (2006)
+32 passage 22	DQ479962		125,084	Peters et al. (2006)
+32 passage 72	DQ479963		125,169	Peters et al. (2006)
+DR	DQ452050		124,770	Norberg et al. (2006)
+CA123	DQ457052		124,771	Norberg et al. (2006)
+Oka Varilrix	DQ008354		124,821	Tillieux et al. (2008)
+Oka Varivax	DQ008355		124,815	Tillieux et al. (2008)
+NH293	DQ674250		124,811	Loparev et al. (2009)
+SVETA	EU154348		124,813	Loparev et al. (2009)
+HJ0	AJ871403		124,928	Fickenscher et al. (unpublished)
+Phocid herpesvirus 1	Harbour seal herpesvirus	PhoHV1					
+Suid herpesvirus 1	Pseudorabies virus	SuHV1	Composite of 6 strains	BK001744	NC_006151	143,461	Klupp et al. (2004)
+
+
+Unassigned species in the subfamily
+Chelonid herpesvirus 5	Chelonid fibropapilloma-associated herpesvirus	ChHV5					
+Chelonid herpesvirus 6	Lung-eye-trachea disease-associated virus	ChHV6					
+
+
+SubfamilyBetaherpesvirinae
+GenusCytomegalovirus
+Cercopithecine herpesvirus 5	Simian cytomegalovirus	CeHV5	2715	FJ483968	NC_012783	226,204	Dolan et al. (unpublished)
+Colburn	FJ483969		219,524	Dolan et al. (unpublished)
+Human herpesvirus 5*	Human cytomegalovirus	HHV5	Merlin	AY446894	NC_006273	235,646	Dolan et al. (2004)
+AD169 varUK	BK000394		230,290	Chee et al. (1990)
+AD169 varUC	FJ527563		231,781	Bradley et al. (2009)
+Towne varATCC	FJ616285		235,147	Bradley et al. (2009)
+3157	GQ221974		235,154	Cunningham et al. (2010)
+3301	GQ466044		235,694	Cunningham et al. (2010)
+HAN13	GQ221973		236,219	Cunningham et al. (2010)
+HAN20	GQ396663		235,728	Cunningham et al. (2010)
+HAN38	GQ396662		236,112	Cunningham et al. (2010)
+JP	GQ221975		236,375	Cunningham et al. (2010)
+Towne varS [BAC]	AY315197			Dunn et al. (2003)
+AD169 varATCC [BAC]	AC146999			Murphy et al. (2003)
+FIX [BAC]	AC146907			Murphy et al. (2003)
+PH [BAC]	AC146904			Murphy et al. (2003)
+Towne varS [BAC]	AC146851			Murphy et al. (2003)
+Toledo [BAC]	AC146905			Murphy et al. (2003)
+TR [BAC]	AC146906			Murphy et al. (2003)
+TB40/E [BAC]	EF999921			Sinzger et al. (2008)
+Towne varL [BAC]	GQ121041			Cui et al. (unpublished)
+Merlin [BAC]	GU179001			Stanton et al. (unpublished)
+Macacine herpesvirus 3	Rhesus cytomegalovirus	McHV3	68-1	AY186194	NC_006150	221,454	Hansen et al. (2003)
+180.92	DQ120516		215,678	Rivailler et al. (2006)
+Panine herpesvirus 2	Chimpanzee cytomegalovirus	PnHV2	Heberling	AF480884	NC_003521	241,087	Davison et al. (2003)
+
+
+Unassigned viruses in the genus
+Aotine herpesvirus 1	Herpesvirus aotus type 1	AoHV1	S 34E	FJ483970		219,474	Dolan et al. (unpublished)
+Aotine herpesvirus 3g	Herpesvirus aotus type 3	AoHV3					
+Saimiriine herpesvirus 3	Squirrel monkey cytomegalovirus	SaHV3	SqSHV	FJ483967		[189,956]	Dolan et al. (unpublished)
+
+
+GenusMuromegalovirus
+Murid herpesvirus 1*	Murine cytomegalovirus	MuHV1	Smith	U68299	NC_004065	230,278	Rawlinson et al. (1996)
+C4A	EU579861		230,111	Smith et al. (2008)
+G4	EU579859		230,227	Smith et al. (2008)
+WP15B	EU579860		230,118	Smith et al. (2008)
+K181 [BAC]	AM886412			Smith et al. (2008)
+Murid herpesvirus 2	Rat cytomegalovirus	MuHV2	Maastricht	AF232689	NC_002512	230,138	Vink et al. (2000)
+
+
+GenusRoseolovirus
+Human herpesvirus 6	Human herpesvirus 6	HHV6	U1102	X83413	NC_001664	159,322	Gompels et al. (1995)
+Z29	AF157706	NC_000898	162,114	Dominguez et al. (1999)
+HST	AB021506		161,573	Isegawa et al. (1999)
+Human herpesvirus 7	Human herpesvirus 7	HHV7	RK	AF037218	NC_001716	153,080	Megaw et al. (1998)
+JI	U43400		144,861	Nicholas (1996)
+
+
+GenusProbiscivirus
+Elephantid herpesvirus 1	Elephant endotheliotropic herpesvirus	ElHV1					
+
+
+Unassigned species in the subfamily
+Caviid herpesvirus 2	Guinea pig cytomegalovirus	CavHV2	21222 [BAC]	FJ355434	NC_011587		Schleiss et al. (2008)
+Suid herpesvirus 2	Pig cytomegalovirus	SuHV2					
+Tupaiid herpesvirus 1	Tupaiid herpesvirus	TuHV1	2	AF281817	NC_002794	195,859	Bahr and Darai (2001)
+
+
+SubfamilyGammaherpesvirinae
+GenusLymphocryptovirus
+Callitrichine herpesvirus 3	Marmoset lymphocryptovirus	CalHV3	CJ0149	AF319782	NC_004367	149,696	Rivailler et al. (2002a)
+Cercopithecine herpesvirus 14	African green monkey EBV-like virus	CeHV14					
+Gorilline herpesvirus 1	Gorilla herpesvirus	GoHV1					
+Human herpesvirus 4*	EpsteinBarr virus	HHV4	B95-8/Raji	AJ507799	NC_007605	171,823	Baer et al. (1984) and de Jesus et al. (2003)
+GD1	AY961628		171,657	Zeng et al. (2005)
+AG876	DQ279927		172,764	Dolan et al. (2006)
+Macacine herpesvirus 4	Rhesus lymphocryptovirus	McHV4	LCL8664	AY037858	NC_006146	171,096	Rivailler et al. (2002b)
+Panine herpesvirus 1	Herpesvirus pan	PnHV1					
+Papiine herpesvirus 1	Herpesvirus papio	PaHV1					
+Pongine herpesvirus 2	Orangutan herpesvirus	PoHV2					
+
+
+GenusMacavirus
+Alcelaphine herpesvirus 1*	Wildebeest-associated malignant catarrhal fever virus	AlHV1	C500	AF005370	NC_002531	130,608	Ensser et al. (1997)
+AF005368		1113	
+Alcelaphine herpesvirus 2	Hartebeest malignant catarrhal fever virus	AlHV2					
+Bovine herpesvirus 6	Bovine lymphotropic herpesvirus	BoHV6					
+Caprine herpesvirus 2	Caprine herpesvirus 2	CpHV2					
+Hippotragine herpesvirus 1	Roan antelope herpesvirus	HiHV1					
+Ovine herpesvirus 2	Sheep-associated malignant catarrhal fever virus	OvHV2	BJ1035	AY839756	NC_007646	135,135	Hart et al. (2007)
+Composite of several strains	DQ198083		[131,621]	Taus et al. (2007)
+Suid herpesvirus 3	Porcine lymphotropic herpesvirus 1	SuHV3					
+Suid herpesvirus 4	Porcine lymphotropic herpesvirus 2	SuHV4					
+Suid herpesvirus 5	Porcine lymphotropic herpesvirus 3	SuHV5					
+
+
+GenusPercavirus
+Equid herpesvirus 2*	Equine herpesvirus 2	EHV2	86/67	U20824	NC_001650	184,427	Telford et al. (1995)
+Equid herpesvirus 5	Equine herpesvirus 5	EHV5					
+Mustelid herpesvirus 1	Badger herpesvirus	MusHV1					
+
+
+GenusRhadinovirus
+Ateline herpesvirus 2	Herpesvirus ateles strain 810	AtHV2					
+Ateline herpesvirus 3	Herpesvirus ateles	AtHV3	73	AF083424	NC_001987	108,409	Albrecht (2000)
+AF126541		1582	
+Bovine herpesvirus 4	Bovine herpesvirus 4	BoHV4	66-p-347	AF318573	NC_002665	108,873	Zimmermann et al. (2001)
+AF092919		2267	
+Human herpesvirus 8	Human herpesvirus 8	HHV8	GK18	AF148805	NC_009333	137,969	Rezaee et al. (2006)
+BC-1	U75698		[137,508]	Russo et al. (1996)
+U75699		801	
+Composite of 2 strains	U93872		[133,661]	Neipel et al. (1997)
+219 [BAC]	GQ994935			Brulois et al. (unpublished)
+Macacine herpesvirus 5	Rhesus rhadinovirus	McHV5	17577	AF083501	NC_003401	133,719	Searles et al. (1999)
+26-95	AF210726		130,733	Alexander et al. (2000)
+AY528864		131,217	Hansen et al. (unpublished)
+Murid herpesvirus 4	Murine herpesvirus 68	MuHV4	g2.4 (WUMS)	U97553	NC_001826	119,450	Virgin et al. (1997)
+g2.4	AF105037		119,550	Nash et al. (2001)
+Saimiriine herpesvirus 2*	Herpesvirus saimiri	SaHV2	A11	X64346	NC_001350	112,930	Albrecht et al. (1992)
+K03361		1444	
+C488	AJ410493		113,027	Ensser et al. (2003)
+AJ410494		1458	
+
+
+Unassigned viruses in the genus
+Leporid herpesvirus 1	Cottontail rabbit herpesvirus	LeHV1					
+Leporid herpesvirus 2	Herpesvirus cuniculi	LeHV2					
+Leporid herpesvirus 3	Herpesvirus sylvilagus	LeHV3					
+Marmodid herpesvirus 1	Woodchuck herpesvirus	MarHV1					
+
+
+Unassigned species in the subfamily
+Equid herpesvirus 7	Asinine herpesvirus 2	EHV7					
+Phocid herpesvirus 2	Phocid herpesvirus 2	PhoHV2					
+Saguinine herpesvirus 1	Herpesvirus saguinus	SgHV1					
+
+
+Unassigned species in the family
+Iguanid herpesvirus 2	Iguana herpesvirus	IgHV2					
+
+
+Unassigned viruses in the family
+Acciptrid herpesvirus 1	Bald eagle herpesvirus	AcHV1					
+Anatid herpesvirus 1	Duck enteritis virus	AnHV1	VAC	EU082088	NC_013036	158,091	Li et al. (2009)
+Boid herpesvirus 1	Boa herpesvirus	BoiHV1					
+Callitrichine herpesvirus 2	Marmoset cytomegalovirus	CalHV2					
+Caviid herpesvirus 1	Guinea pig herpesvirus	CavHV1					
+Caviid herpesvirus 3	Guinea pig herpesvirus 3	CavHV3					
+Cebine herpesvirus 1	Capuchin herpesvirus AL-5	CbHV1					
+Cebine herpesvirus 2	Capuchin herpesvirus AP-18	CbHV2					
+Cercopithecine herpesvirus 3h	SA6	CeHV3					
+Cercopithecine herpesvirus 4	SA15	CeHV4					
+Chelonid herpesvirus 1	Grey patch disease-associated virus	ChHV1					
+Chelonid herpesvirus 2	Pacific pond turtle herpesvirus	ChHV2					
+Chelonid herpesvirus 3	Painted turtle herpesvirus	ChHV3					
+Chelonid herpesvirus 4	Argentine turtle herpesvirus	ChHV4					
+Ciconiid herpesvirus 1	Black stork herpesvirus	CiHV1					
+Cricetid herpesvirus	Hamster herpesvirus	CrHV1					
+Elapid herpesvirus 1	Indian cobra herpesvirus	EpHV1					
+Erinaceid herpesvirus 1	European hedgehog herpesvirus	ErHV1					
+Falconid herpesvirus 1i	Falcon inclusion body disease virus	FaHV1					
+Gruid herpesvirus 1	Crane herpesvirus	GrHV1					
+Iguanid herpesvirus 1	Green iguana herpesvirus	IgHV1					
+Lacertid herpesvirus	Green lizard herpesvirus	LaHV1					
+Macacine herpesvirus 6	Rhesus leukocyte-associated herpesvirus strain 1	McHV6					
+Macacine herpesvirus 7	Herpesvirus cyclopis	McHV7					
+Murid herpesvirus 3	Mouse thymic herpesvirus	MuHV3					
+Murid herpesvirus 5	Field mouse herpesvirus	MuHV5					
+Murid herpesvirus 6	Sand rat nuclear inclusion agent	MuHV6					
+Murid herpesvirus 7	Wood mouse herpesvirus	MuHV7	WM8	GQ169129		120108	Hughes et al. (2010)
+Ovine herpesvirus 1	Sheep pulmonary adenomatosis-associated herpesvirus	OvHV1					
+Perdicid herpesvirus 1	Bobwhite quail herpesvirus	PdHV1					
+Phalacrocoracid herpesvirus 1	Cormorant herpesvirus	PhHV1					
+Procyonid herpesvirus 1	Kinkajou herpesvirus	PrHV1					
+Sciurid herpesvirus 1	Ground squirrel cytomegalovirus	ScHV1					
+Sciurid herpesvirus 2	Ground squirrel herpesvirus	ScHV2					
+Sphenicid herpesvirus 1	Black footed penguin herpesvirus	SpHV1					
+Strigid herpesvirus 1i	Owl hepatosplenitis virus	StHV1					
+
+
+FamilyAlloherpesviridae
+GenusBatrachovirus
+Ranid herpesvirus 1*	Lucké tumor herpesvirus	RaHV1	McKinnell	DQ665917	NC_008211	220,859	Davison et al. (2006)
+Ranid herpesvirus 2	Frog virus 4	RaHV2	Rafferty	DQ665652	NC_008210	231,801	Davison et al. (2006)
+
+
+GenusCyprinivirus
+Cyprinid herpesvirus 1	Carp pox herpesvirus	CyHV1					
+Cyprinid herpesvirus 2	Goldfish haematopoietic necrosis virus	CyHV2					
+Cyprinid herpesvirus 3*	Koi herpesvirus	CyHV3	U	DQ657948	NC_009127	295,146	Aoki et al. (2007)
+J	AP008984		295,052	Aoki et al. (2007)
+I	DQ177346		295,138	Aoki et al. (2007)
+
+
+GenusIctalurivirus
+Ictalurid herpesvirus 1*	Channel catfish virus	IcHV1	Auburn 1	M75136	NC_001493	134,226	Davison (1992)
+Ictalurid herpesvirus 2	Black bullhead herpesvirus	IcHV2					
+Acipenserid herpesvirus 2	White sturgeon herpesvirus 2	AciHV2					
+
+
+GenusSalmonivirus
+Salmonid herpesvirus 1*	Herpesvirus salmonis	SalHV1					
+Salmonid herpesvirus 2	Oncorhynchus masou herpesvirus	SalHV2					
+Salmonid herpesvirus 3	Epizootic epitheliotropic disease virus	SalHV3					
+
+
+Unassigned viruses in the family
+Acipenserid herpesvirus 1	White sturgeon herpesvirus 1	AciHV1					
+Anguillid herpesvirus 1	Eel herpesvirus	AngHV1	500138	FJ940765	NC_013668	248,531	van Beurden et al. (2010)
+Esocid herpesvirus 1	Northern pike herpesvirus	EsHV1					
+Percid herpesvirus 1	Walleye epidermal hyperplasia herpesvirus	PeHV1					
+Pleuronectid herpesvirus 1	Turbot herpesvirus	PlHV1					
+
+
+FamilyMalacoherpesviridae
+GenusOstreavirus
+Ostreid herpesvirus 1*	Oyster herpesvirus	OsHV1		AY509253	NC_005881	207,439	Davison et al. (2005b)
