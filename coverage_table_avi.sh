@@ -11,7 +11,10 @@ for stats in *_stats*
 
 do cat $stats | sed '$!N;/Coverage/P;D'| cut -f 3,5 | sed 's/Coverage://g'| sed 's/Total reads://g'| sed 's/\%//g'> tab_$stats
 
-grep "sam" tab_$stats | cut -f 1 -d "_"> fn1_$stats
+#Altered to incude full name but can have neater version by using alternative version below
+grep "sam" tab_$stats > fn1_$stats
+#Alternative
+#grep "sam" tab_$stats | cut -f 1 -d "_"> fn1_$stats
 
 grep -v "sam" tab_$stats > tab1_$stats
 
